@@ -28,6 +28,6 @@
 
 
 ### Конфигурации:
-   1. R1[https://github.com/DlogNet/otus-networks/blob/main/labs/lab_4.2.8/configs/R1]
-   2. S1[https://github.com/DlogNet/otus-networks/blob/main/labs/lab_4.2.8/configs/S1] 
-   3. S2[https://github.com/DlogNet/otus-networks/blob/main/labs/lab_4.2.8/configs/S2]
+   1. [R1](https://github.com/DlogNet/otus-networks/blob/main/labs/lab_4.2.8/configs/R1)
+   2. [S1](https://github.com/DlogNet/otus-networks/blob/main/labs/lab_4.2.8/configs/S1)
+   3. [S2](https://github.com/DlogNet/otus-networks/blob/main/labs/lab_4.2.8/configs/S2)
