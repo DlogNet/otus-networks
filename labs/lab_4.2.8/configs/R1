@@ -1,5 +1,4 @@
 ```
-
 Current configuration : 1143 bytes
 !
 version 15.4
@@ -100,5 +99,4 @@ line vty 4
 !
 !
 end
-
 ```
