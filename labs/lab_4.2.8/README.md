@@ -31,3 +31,15 @@
    1. [R1](https://github.com/DlogNet/otus-networks/blob/main/labs/lab_4.2.8/configs/R1)
    2. [S1](https://github.com/DlogNet/otus-networks/blob/main/labs/lab_4.2.8/configs/S1)
    3. [S2](https://github.com/DlogNet/otus-networks/blob/main/labs/lab_4.2.8/configs/S2)
+
+### Проверка средствами icmp:
+   1. [PC-A -> GW]
+![image](https://user-images.githubusercontent.com/112641849/188320265-fade2463-58bb-4d5b-b557-91081fd3c144.png)
+
+   2. [PC-A -> PC-B]
+![image](https://user-images.githubusercontent.com/112641849/188320295-63fa9680-be11-448b-a49f-937c3fcc8420.png)
+
+   3. [PC-A -> S2]
+![image](https://user-images.githubusercontent.com/112641849/188320373-68ff9e1e-2101-4032-b368-2a3031476863.png)
+
+
