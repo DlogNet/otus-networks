@@ -26,3 +26,44 @@
 #### draw.io diagram 
 ![image](https://user-images.githubusercontent.com/112641849/188318192-32644653-a060-4665-9114-6b19bff8c6b5.png)
 
+
+### Прописать настройки обозначенными ТЗ на устройствах
+
+   1. RO1
+   `
+hostname R1
+!
+!
+!
+enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1
+!
+!
+no ip domain-lookup
+!
+!
+banner login ^C
+
+***************************************************************
+
+*   ACCESS IS RESTRICTED TO AUTHORIZED USERS ONLY!            *
+
+***************************************************************
+!
+!
+line con 0
+ password 7 0822455D0A16
+ login
+!
+line aux 0
+!
+line vty 0 3
+ login
+line vty 4
+ password 7 0822455D0A16
+ login
+!
+!
+!
+end
+   2. S1
+   3. S2
