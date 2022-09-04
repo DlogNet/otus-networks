@@ -25,6 +25,4 @@
 
 #### draw.io diagram 
 
-x-special/nautilus-clipboard
-copy
-file:///home/dlog/Desktop/b2b.drawio.png
+![image](https://user-images.githubusercontent.com/112641849/188318153-02d3531a-d046-412e-9484-712ac16fa8a4.png)
