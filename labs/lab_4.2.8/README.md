@@ -29,9 +29,8 @@
 
 ### Прописать настройки обозначенными ТЗ на устройствах
 
-   1. R1
    ```
-   hostname R1
+   hostname R1 \ S1 \ S2
    !
    !
    enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1
@@ -62,7 +61,6 @@ line vty 4
  login
 !
 !
-end
 ```
 
    2. S1
