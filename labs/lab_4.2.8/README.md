@@ -35,10 +35,13 @@
 ### Проверка средствами icmp:
 
 PC-A -> GW
+
 ![image](https://user-images.githubusercontent.com/112641849/188320265-fade2463-58bb-4d5b-b557-91081fd3c144.png)
 
 PC-A -> PC-B
+
 ![image](https://user-images.githubusercontent.com/112641849/188320435-1c171717-c089-4e4f-aa03-27449b0bd8ac.png)
 
 PC-A -> S2
+
 ![image](https://user-images.githubusercontent.com/112641849/188320373-68ff9e1e-2101-4032-b368-2a3031476863.png)
