@@ -31,11 +31,10 @@
 
    1. RO1
    `
-hostname R1
-!
-!
-!
-enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1
+   hostname R1
+   !
+   !
+   enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1
 !
 !
 no ip domain-lookup
@@ -63,7 +62,8 @@ line vty 4
  login
 !
 !
-!
 end
+`
+
    2. S1
    3. S2
