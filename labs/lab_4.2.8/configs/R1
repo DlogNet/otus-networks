@@ -1,4 +1,4 @@
-```Current configuration : 1143 bytes
+Current configuration : 1143 bytes
 !
 version 15.4
 no service timestamps log datetime msec
@@ -97,4 +97,4 @@ line vty 4
 !
 !
 !
-end```
+end
