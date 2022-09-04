@@ -45,3 +45,7 @@ PC-A -> PC-B
 PC-A -> S2
 
 ![image](https://user-images.githubusercontent.com/112641849/188320373-68ff9e1e-2101-4032-b368-2a3031476863.png)
+
+#### Lab file (CPT)
+
+[lab01](https://drive.google.com/file/d/1gt_Es5LHkmFdxecQ3IUk94uwFLBNZoGO/view?usp=sharing)
